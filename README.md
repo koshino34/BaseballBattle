@@ -14,4 +14,5 @@
 
 ## 5. お問い合わせ先
 何かご不明な点がございましたら下記からお問い合わせください。
+
 Email: baseballbattlewp@gmail.com
